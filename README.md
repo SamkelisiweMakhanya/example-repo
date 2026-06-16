@@ -44,7 +44,6 @@ The participant's award is determined according to the official triathlon rules 
 # File Structure
 .
 |___ award.py
-|
 |___ README.md
 
 # Author
